@@ -1,6 +1,6 @@
-# omarhoumz.github.io
+# jaize.github.io
 
-Source code for the site https://omarhoumz.github.io
+Source code for the site https://jaize.github.io
 
-* Name: __Omar Houmz__
-* Message & Follow me: __[@omarhoumz](https://twitter.com/omarhoumz "Omar Houmz's twitter")__
+* Name: __JAIZE Abderrahman__
+* Message & Follow me: __[@JaizeMsd](https://twitter.com/JaizeMsd "Abderrahman's twitter")__
